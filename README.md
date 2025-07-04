@@ -17,11 +17,18 @@ This repository documents my progress while learning the Java programming langua
 
 ---
 
-## 🔍 Featured Code Samples
+## 🧾 Program List
 
-- [✔️ OOP: Car.java – Basic class & constructor](./src/OOP/Car.java)
-- [🎲 SlotMachine.java – Mini game using loops and randoms](./src/Projects/SlotMachine.java)
-- [📦 ShoppingCart.java – Simulates user-cart functionality](./src/Projects/ShoppingCart.java)
+| Category | Sample Programs |
+|----------|------------------|
+| Basics | `ArithmeticOperators.java`, `Introduction.java` |
+| Loops | `ForLoop.java`, `WhileLoop.java`, `NestedLoops.java` |
+| Conditionals | `IfStatements.java`, `SwitchCase.java` |
+| Arrays | `L23Array.java`, `L28TwoDArray.java` |
+| Methods | `MathMethod.java`, `Varargs.java`, `MethodOVERLOAD.java` |
+| OOP | `Car.java`, `Student.java`, `User.java` |
+| Mini Projects | `SlotMachine.java`, `BankingSystem.java`, `ShoppingCart.java`, `QuizGame.java` |
+
 
 
 ---
