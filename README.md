@@ -1,4 +1,4 @@
-# ☕ JavaKABALA – My Java Learning Journey
+# JavaKABALA 
 
 This repository documents my progress while learning the Java programming language through a structured YouTube tutorial. It includes hands-on practice programs, mini-projects, and key OOP concepts.
 
