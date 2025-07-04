@@ -52,6 +52,12 @@ This repository documents my progress while learning the Java programming langua
 
 ---
 
+## 💡 Motivation & Future Goals
+
+I’m a third-year Computer Science Engineering student at Bharati Vidyapeeth University, Pune. I'm actively upskilling to become a full-stack developer, exploring frontend, backend, databases, version control, deployment, and tools like Git, Node.js, React, and more. A curious and self-motivated learner, I’m always seeking opportunities to grow and gain real-world experience.
+
+---
+
 ## 🔧 How to Run
 
 1. Clone this repo:
