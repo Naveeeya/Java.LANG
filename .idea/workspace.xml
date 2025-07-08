@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68a66cc7-f5b3-48bd-9b14-03c4012fecff" name="Changes" comment="an AutoPusher">
-      <change afterPath="$PROJECT_DIR$/run_and_push.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Introduction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduction.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +47,7 @@
     "Application.Conditions.executor": "Run",
     "Application.ForLoop.executor": "Run",
     "Application.GitAutoPusher.executor": "Run",
+    "Application.Introduction.executor": "Run",
     "Application.L10StringMethods.executor": "Run",
     "Application.L17Matrix.executor": "Run",
     "Application.L20VariableScope.executor": "Run",
@@ -114,16 +116,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L29QuizGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L29QuizGame" />
+    <configuration name="L10StringMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L10StringMethods" />
       <module name="MyFirstProject" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserInputinArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UserInputinArray" />
+    <configuration name="L29QuizGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L29QuizGame" />
       <module name="MyFirstProject" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -164,19 +166,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Introduction" />
+      <item itemvalue="Application.L10StringMethods" />
       <item itemvalue="Application.GitAutoPusher" />
       <item itemvalue="Application.helloWorld" />
-      <item itemvalue="Application.UserInputinArray" />
       <item itemvalue="Application.L29QuizGame" />
       <item itemvalue="Batch.run_and_push" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Batch.run_and_push" />
+        <item itemvalue="Application.L10StringMethods" />
         <item itemvalue="Application.GitAutoPusher" />
         <item itemvalue="Application.helloWorld" />
         <item itemvalue="Application.L29QuizGame" />
-        <item itemvalue="Application.UserInputinArray" />
       </list>
     </recent_temporary>
   </component>
