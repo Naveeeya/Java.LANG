@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68a66cc7-f5b3-48bd-9b14-03c4012fecff" name="Changes" comment="" />
+    <list default="true" id="68a66cc7-f5b3-48bd-9b14-03c4012fecff" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/GitAutoPusher.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +21,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -40,6 +45,7 @@
     "Application.CompoundInterest.executor": "Run",
     "Application.Conditions.executor": "Run",
     "Application.ForLoop.executor": "Run",
+    "Application.GitAutoPusher.executor": "Run",
     "Application.L10StringMethods.executor": "Run",
     "Application.L17Matrix.executor": "Run",
     "Application.L20VariableScope.executor": "Run",
@@ -85,15 +91,26 @@
     "Application.switchesEnhs.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "create.test.in.the.same.root": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "settings.editor.selected.configurable": "configurable.group.editor",
     "settings.editor.splitter.proportion": "0.3337041"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.L27Varargs">
+  <component name="RunManager" selected="Application.GitAutoPusher">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration name="GitAutoPusher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GitAutoPusher" />
+      <module name="MyFirstProject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="L10StringMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="L10StringMethods" />
@@ -119,24 +136,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L31SlotMachine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L31SlotMachine" />
-      <module name="MyFirstProject" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="UserInputinArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="UserInputinArray" />
-      <module name="MyFirstProject" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Varargs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Varargs" />
       <module name="MyFirstProject" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -166,15 +167,15 @@
     </configuration>
     <list>
       <item itemvalue="Application.Introduction" />
+      <item itemvalue="Application.GitAutoPusher" />
       <item itemvalue="Application.L10StringMethods" />
       <item itemvalue="Application.UserInputinArray" />
-      <item itemvalue="Application.L27Varargs" />
       <item itemvalue="Application.printMatrix" />
       <item itemvalue="Application.L29QuizGame" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.L27Varargs" />
+        <item itemvalue="Application.GitAutoPusher" />
         <item itemvalue="Application.L29QuizGame" />
         <item itemvalue="Application.UserInputinArray" />
         <item itemvalue="Application.printMatrix" />
@@ -192,5 +193,16 @@
       <updated>1746432358288</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
