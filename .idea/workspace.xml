@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68a66cc7-f5b3-48bd-9b14-03c4012fecff" name="Changes" comment="an AutoPusher">
-      <change beforePath="$PROJECT_DIR$/src/helloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run_and_push.bat" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +90,7 @@
     "Application.randomCLASS.executor": "Run",
     "Application.shoppingCART.executor": "Run",
     "Application.switchesEnhs.executor": "Run",
+    "Batch.run_and_push.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -100,7 +101,7 @@
     "settings.editor.splitter.proportion": "0.3337041"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.GitAutoPusher">
+  <component name="RunManager" selected="Batch.run_and_push">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -115,14 +116,6 @@
     </configuration>
     <configuration name="L29QuizGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="L29QuizGame" />
-      <module name="MyFirstProject" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="L31SlotMachine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L31SlotMachine" />
       <module name="MyFirstProject" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -151,10 +144,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="printMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="printMatrix" />
+    <configuration name="run_and_push" type="BatchConfigurationType" factoryName="Batch" temporary="true">
       <module name="MyFirstProject" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\Tarun Sagar\IdeaProjects\Java.LANG" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="run_and_push.bat" />
+      <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -171,16 +167,16 @@
       <item itemvalue="Application.GitAutoPusher" />
       <item itemvalue="Application.helloWorld" />
       <item itemvalue="Application.UserInputinArray" />
-      <item itemvalue="Application.printMatrix" />
       <item itemvalue="Application.L29QuizGame" />
+      <item itemvalue="Batch.run_and_push" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Batch.run_and_push" />
         <item itemvalue="Application.GitAutoPusher" />
         <item itemvalue="Application.helloWorld" />
         <item itemvalue="Application.L29QuizGame" />
         <item itemvalue="Application.UserInputinArray" />
-        <item itemvalue="Application.printMatrix" />
       </list>
     </recent_temporary>
   </component>
