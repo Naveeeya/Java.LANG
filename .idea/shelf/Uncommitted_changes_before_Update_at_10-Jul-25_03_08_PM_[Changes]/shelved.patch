@@ -1,0 +1,230 @@
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"VcsDirectoryMappings\">\r\n    <mapping directory=\"\" vcs=\"Git\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+--- a/.idea/vcs.xml	(revision 2dff6c376858de200921863765e9997464a49062)
++++ b/.idea/vcs.xml	(date 1752140141313)
+@@ -2,5 +2,6 @@
+ <project version="4">
+   <component name="VcsDirectoryMappings">
+     <mapping directory="" vcs="Git" />
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"68a66cc7-f5b3-48bd-9b14-03c4012fecff\" name=\"Changes\" comment=\"initial commit\">\r\n      <change afterPath=\"$PROJECT_DIR$/AutoUpdater/AutoUpdater.iml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/misc.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/misc.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/modules.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/modules.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/runConfigurations/Introduction.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/runConfigurations/Introduction.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/MyFirstProject.iml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Java.LANG.iml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/ArrayList.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/ArrayListExample.java\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"CompilerWorkspaceConfiguration\">\r\n    <option name=\"CLEAR_OUTPUT_DIRECTORY\" value=\"false\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 1\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2wf8prtmpVmLLiTbR93npPRLj5w\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"abbreviatePackageNames\" value=\"true\" />\r\n    <option name=\"autoscrollFromSource\" value=\"true\" />\r\n    <option name=\"autoscrollToSource\" value=\"true\" />\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showExcludedFiles\" value=\"false\" />\r\n    <option name=\"showModules\" value=\"false\" />\r\n    <option name=\"sortByType\" value=\"true\" />\r\n    <option name=\"sortKey\" value=\"BY_TYPE\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Application.ArrayListExample.executor\": \"Run\",\r\n    \"Application.BreakContinue.executor\": \"Run\",\r\n    \"Application.CompoundInterest.executor\": \"Run\",\r\n    \"Application.Conditions.executor\": \"Run\",\r\n    \"Application.ForLoop.executor\": \"Run\",\r\n    \"Application.GitAutoPusher.executor\": \"Run\",\r\n    \"Application.Introduction.executor\": \"Run\",\r\n    \"Application.L10StringMethods.executor\": \"Run\",\r\n    \"Application.L17Matrix.executor\": \"Run\",\r\n    \"Application.L20VariableScope.executor\": \"Run\",\r\n    \"Application.L21Banking.executor\": \"Run\",\r\n    \"Application.L22DiceRollingProgram.executor\": \"Run\",\r\n    \"Application.L23Array.executor\": \"Run\",\r\n    \"Application.L24EnterUserInputInArray.executor\": \"Run\",\r\n    \"Application.L27Varargs.executor\": \"Run\",\r\n    \"Application.L282DArray.executor\": \"Run\",\r\n    \"Application.L29QuizGame.executor\": \"Run\",\r\n    \"Application.L2AcceptInput.executor\": \"Run\",\r\n    \"Application.L30RockPaperScissor.executor\": \"Run\",\r\n    \"Application.L31SlotMachine.executor\": \"Run\",\r\n    \"Application.L32Main.executor\": \"Run\",\r\n    \"Application.L3ArithmaticOperators.executor\": \"Run\",\r\n    \"Application.L3Problem.executor\": \"Run\",\r\n    \"Application.L3SlotMachine.executor\": \"Run\",\r\n    \"Application.L5ShoppingCart.executor\": \"Run\",\r\n    \"Application.L6IfStatements.executor\": \"Run\",\r\n    \"Application.L7random.executor\": \"Run\",\r\n    \"Application.L8MathMethod.executor\": \"Run\",\r\n    \"Application.Main.executor\": \"Run\",\r\n    \"Application.MathClass.executor\": \"Run\",\r\n    \"Application.Mini2DProject.executor\": \"Run\",\r\n    \"Application.NestedLoops.executor\": \"Run\",\r\n    \"Application.NumberGuessing.executor\": \"Run\",\r\n    \"Application.ShoppingCart_5.executor\": \"Run\",\r\n    \"Application.StringMethods.executor\": \"Run\",\r\n    \"Application.Student.executor\": \"Run\",\r\n    \"Application.Substring.executor\": \"Run\",\r\n    \"Application.TernaryOperator.executor\": \"Run\",\r\n    \"Application.WeightConverter.executor\": \"Run\",\r\n    \"Application.WhileLoop.executor\": \"Run\",\r\n    \"Application.acceptINPUT.executor\": \"Run\",\r\n    \"Application.acceptINPUTgame.executor\": \"Run\",\r\n    \"Application.arithOPERATORS.executor\": \"Debug\",\r\n    \"Application.cONDITIONS.executor\": \"Run\",\r\n    \"Application.calculator.executor\": \"Run\",\r\n    \"Application.helloWorld.executor\": \"Run\",\r\n    \"Application.methodOVERLOAD.executor\": \"Run\",\r\n    \"Application.methods.executor\": \"Run\",\r\n    \"Application.randomCLASS.executor\": \"Run\",\r\n    \"Application.shoppingCART.executor\": \"Run\",\r\n    \"Application.switchesEnhs.executor\": \"Run\",\r\n    \"Batch.run_and_push.executor\": \"Run\",\r\n    \"ModuleVcsDetector.initialDetectionPerformed\": \"true\",\r\n    \"Python.update_readme.executor\": \"Run\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"RunOnceActivity.git.unshallow\": \"true\",\r\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\r\n    \"create.test.in.the.same.root\": \"true\",\r\n    \"git-widget-placeholder\": \"main\",\r\n    \"ignore.virus.scanning.warn.message\": \"true\",\r\n    \"project.structure.last.edited\": \"Modules\",\r\n    \"project.structure.proportion\": \"0.12300122\",\r\n    \"project.structure.side.proportion\": \"0.2\",\r\n    \"settings.editor.selected.configurable\": \"configurable.group.language\",\r\n    \"settings.editor.splitter.proportion\": \"0.3337041\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\Tarun Sagar\\IdeaProjects\\Java.LANG\\AutoUpdater\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"Batch.run_and_push\">\r\n    <configuration name=\"&lt;template&gt;\" type=\"TestNG\" default=\"true\" selected=\"false\">\r\n      <option name=\"VM_PARAMETERS\" value=\"-ea\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"%MODULE_WORKING_DIR%\" />\r\n    </configuration>\r\n    <configuration name=\"ArrayListExample\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"ArrayListExample\" />\r\n      <module name=\"Java.LANG\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"GitAutoPusher\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"GitAutoPusher\" />\r\n      <module name=\"Java.LANG\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"L10StringMethods\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"L10StringMethods\" />\r\n      <module name=\"Java.LANG\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration default=\"true\" type=\"Application\" factoryName=\"Application\">\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"run_and_push\" type=\"BatchConfigurationType\" factoryName=\"Batch\" temporary=\"true\">\r\n      <module name=\"Java.LANG\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"run_and_push.bat\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration default=\"true\" type=\"JUnit\" factoryName=\"JUnit\">\r\n      <option name=\"TEST_OBJECT\" value=\"class\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"%MODULE_WORKING_DIR%\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"update_readme\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"AutoUpdater\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/AutoUpdater\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/AutoUpdater/update_readme.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <list>\r\n      <item itemvalue=\"Application.Introduction\" />\r\n      <item itemvalue=\"Application.ArrayListExample\" />\r\n      <item itemvalue=\"Application.L10StringMethods\" />\r\n      <item itemvalue=\"Application.GitAutoPusher\" />\r\n      <item itemvalue=\"Batch.run_and_push\" />\r\n      <item itemvalue=\"Python.update_readme\" />\r\n    </list>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Batch.run_and_push\" />\r\n        <item itemvalue=\"Python.update_readme\" />\r\n        <item itemvalue=\"Application.ArrayListExample\" />\r\n        <item itemvalue=\"Application.L10StringMethods\" />\r\n        <item itemvalue=\"Application.GitAutoPusher\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"68a66cc7-f5b3-48bd-9b14-03c4012fecff\" name=\"Changes\" comment=\"\" />\r\n      <created>1746432358288</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1746432358288</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"time AutoPusher\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1752130165139</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1752130165139</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"initial commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1752130199236</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1752130199236</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"initial commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1752130218280</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1752130218280</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"initial commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1752130419776</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1752130419776</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"5\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"an AutoPusher\" />\r\n    <MESSAGE value=\"time AutoPusher\" />\r\n    <MESSAGE value=\"initial commit\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"initial commit\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 2dff6c376858de200921863765e9997464a49062)
++++ b/.idea/workspace.xml	(date 1752140141293)
+@@ -5,13 +5,8 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="68a66cc7-f5b3-48bd-9b14-03c4012fecff" name="Changes" comment="initial commit">
+-      <change afterPath="$PROJECT_DIR$/AutoUpdater/AutoUpdater.iml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Introduction.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Introduction.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/MyFirstProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java.LANG.iml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayListExample.java" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -30,6 +25,9 @@
+   </component>
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++  </component>
++  <component name="ProblemsViewState">
++    <option name="selectedTabId" value="CurrentFile" />
+   </component>
+   <component name="ProjectColorInfo">{
+   &quot;associatedIndex&quot;: 1
+@@ -45,75 +43,75 @@
+     <option name="sortByType" value="true" />
+     <option name="sortKey" value="BY_TYPE" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "Application.ArrayListExample.executor": "Run",
+-    "Application.BreakContinue.executor": "Run",
+-    "Application.CompoundInterest.executor": "Run",
+-    "Application.Conditions.executor": "Run",
+-    "Application.ForLoop.executor": "Run",
+-    "Application.GitAutoPusher.executor": "Run",
+-    "Application.Introduction.executor": "Run",
+-    "Application.L10StringMethods.executor": "Run",
+-    "Application.L17Matrix.executor": "Run",
+-    "Application.L20VariableScope.executor": "Run",
+-    "Application.L21Banking.executor": "Run",
+-    "Application.L22DiceRollingProgram.executor": "Run",
+-    "Application.L23Array.executor": "Run",
+-    "Application.L24EnterUserInputInArray.executor": "Run",
+-    "Application.L27Varargs.executor": "Run",
+-    "Application.L282DArray.executor": "Run",
+-    "Application.L29QuizGame.executor": "Run",
+-    "Application.L2AcceptInput.executor": "Run",
+-    "Application.L30RockPaperScissor.executor": "Run",
+-    "Application.L31SlotMachine.executor": "Run",
+-    "Application.L32Main.executor": "Run",
+-    "Application.L3ArithmaticOperators.executor": "Run",
+-    "Application.L3Problem.executor": "Run",
+-    "Application.L3SlotMachine.executor": "Run",
+-    "Application.L5ShoppingCart.executor": "Run",
+-    "Application.L6IfStatements.executor": "Run",
+-    "Application.L7random.executor": "Run",
+-    "Application.L8MathMethod.executor": "Run",
+-    "Application.Main.executor": "Run",
+-    "Application.MathClass.executor": "Run",
+-    "Application.Mini2DProject.executor": "Run",
+-    "Application.NestedLoops.executor": "Run",
+-    "Application.NumberGuessing.executor": "Run",
+-    "Application.ShoppingCart_5.executor": "Run",
+-    "Application.StringMethods.executor": "Run",
+-    "Application.Student.executor": "Run",
+-    "Application.Substring.executor": "Run",
+-    "Application.TernaryOperator.executor": "Run",
+-    "Application.WeightConverter.executor": "Run",
+-    "Application.WhileLoop.executor": "Run",
+-    "Application.acceptINPUT.executor": "Run",
+-    "Application.acceptINPUTgame.executor": "Run",
+-    "Application.arithOPERATORS.executor": "Debug",
+-    "Application.cONDITIONS.executor": "Run",
+-    "Application.calculator.executor": "Run",
+-    "Application.helloWorld.executor": "Run",
+-    "Application.methodOVERLOAD.executor": "Run",
+-    "Application.methods.executor": "Run",
+-    "Application.randomCLASS.executor": "Run",
+-    "Application.shoppingCART.executor": "Run",
+-    "Application.switchesEnhs.executor": "Run",
+-    "Batch.run_and_push.executor": "Run",
+-    "ModuleVcsDetector.initialDetectionPerformed": "true",
+-    "Python.update_readme.executor": "Run",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "RunOnceActivity.git.unshallow": "true",
+-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+-    "create.test.in.the.same.root": "true",
+-    "git-widget-placeholder": "main",
+-    "ignore.virus.scanning.warn.message": "true",
+-    "project.structure.last.edited": "Modules",
+-    "project.structure.proportion": "0.12300122",
+-    "project.structure.side.proportion": "0.2",
+-    "settings.editor.selected.configurable": "configurable.group.language",
+-    "settings.editor.splitter.proportion": "0.3337041"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;Application.ArrayListExample.executor&quot;: &quot;Run&quot;,
++    &quot;Application.BreakContinue.executor&quot;: &quot;Run&quot;,
++    &quot;Application.CompoundInterest.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Conditions.executor&quot;: &quot;Run&quot;,
++    &quot;Application.ForLoop.executor&quot;: &quot;Run&quot;,
++    &quot;Application.GitAutoPusher.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Introduction.executor&quot;: &quot;Run&quot;,
++    &quot;Application.L10StringMethods.executor&quot;: &quot;Run&quot;,
++    &quot;Application.L17Matrix.executor&quot;: &quot;Run&quot;,
++    &quot;Application.L20VariableScope.executor&quot;: &quot;Run&quot;,
++    &quot;Application.L21Banking.executor&quot;: &quot;Run&quot;,
++    &quot;Application.L22DiceRollingProgram.executor&quot;: &quot;Run&quot;,
++    &quot;Application.L23Array.executor&quot;: &quot;Run&quot;,
++    &quot;Application.L24EnterUserInputInArray.executor&quot;: &quot;Run&quot;,
++    &quot;Application.L27Varargs.executor&quot;: &quot;Run&quot;,
++    &quot;Application.L282DArray.executor&quot;: &quot;Run&quot;,
++    &quot;Application.L29QuizGame.executor&quot;: &quot;Run&quot;,
++    &quot;Application.L2AcceptInput.executor&quot;: &quot;Run&quot;,
++    &quot;Application.L30RockPaperScissor.executor&quot;: &quot;Run&quot;,
++    &quot;Application.L31SlotMachine.executor&quot;: &quot;Run&quot;,
++    &quot;Application.L32Main.executor&quot;: &quot;Run&quot;,
++    &quot;Application.L3ArithmaticOperators.executor&quot;: &quot;Run&quot;,
++    &quot;Application.L3Problem.executor&quot;: &quot;Run&quot;,
++    &quot;Application.L3SlotMachine.executor&quot;: &quot;Run&quot;,
++    &quot;Application.L5ShoppingCart.executor&quot;: &quot;Run&quot;,
++    &quot;Application.L6IfStatements.executor&quot;: &quot;Run&quot;,
++    &quot;Application.L7random.executor&quot;: &quot;Run&quot;,
++    &quot;Application.L8MathMethod.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MathClass.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Mini2DProject.executor&quot;: &quot;Run&quot;,
++    &quot;Application.NestedLoops.executor&quot;: &quot;Run&quot;,
++    &quot;Application.NumberGuessing.executor&quot;: &quot;Run&quot;,
++    &quot;Application.ShoppingCart_5.executor&quot;: &quot;Run&quot;,
++    &quot;Application.StringMethods.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Student.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Substring.executor&quot;: &quot;Run&quot;,
++    &quot;Application.TernaryOperator.executor&quot;: &quot;Run&quot;,
++    &quot;Application.WeightConverter.executor&quot;: &quot;Run&quot;,
++    &quot;Application.WhileLoop.executor&quot;: &quot;Run&quot;,
++    &quot;Application.acceptINPUT.executor&quot;: &quot;Run&quot;,
++    &quot;Application.acceptINPUTgame.executor&quot;: &quot;Run&quot;,
++    &quot;Application.arithOPERATORS.executor&quot;: &quot;Debug&quot;,
++    &quot;Application.cONDITIONS.executor&quot;: &quot;Run&quot;,
++    &quot;Application.calculator.executor&quot;: &quot;Run&quot;,
++    &quot;Application.helloWorld.executor&quot;: &quot;Run&quot;,
++    &quot;Application.methodOVERLOAD.executor&quot;: &quot;Run&quot;,
++    &quot;Application.methods.executor&quot;: &quot;Run&quot;,
++    &quot;Application.randomCLASS.executor&quot;: &quot;Run&quot;,
++    &quot;Application.shoppingCART.executor&quot;: &quot;Run&quot;,
++    &quot;Application.switchesEnhs.executor&quot;: &quot;Run&quot;,
++    &quot;Batch.run_and_push.executor&quot;: &quot;Run&quot;,
++    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
++    &quot;Python.update_readme.executor&quot;: &quot;Run&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
++    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
++    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
++    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
++    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
++    &quot;project.structure.proportion&quot;: &quot;0.12300122&quot;,
++    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
++    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
++    &quot;settings.editor.splitter.proportion&quot;: &quot;0.3337041&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RecentsManager">
+     <key name="MoveFile.RECENT_KEYS">
+       <recent name="C:\Users\Tarun Sagar\IdeaProjects\Java.LANG\AutoUpdater" />
+@@ -253,7 +251,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1752130419776</updated>
+     </task>
+-    <option name="localTasksCounter" value="5" />
++    <task id="LOCAL-00005" summary="update and push">
++      <option name="closed" value="true" />
++      <created>1752130908267</created>
++      <option name="number" value="00005" />
++      <option name="presentableId" value="LOCAL-00005" />
++      <option name="project" value="LOCAL" />
++      <updated>1752130908267</updated>
++    </task>
++    <option name="localTasksCounter" value="6" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -268,9 +274,13 @@
+     </option>
+   </component>
+   <component name="VcsManagerConfiguration">
++    <ignored-roots>
++      <path value="$PROJECT_DIR$/AutoUpdater" />
++    </ignored-roots>
+     <MESSAGE value="an AutoPusher" />
+     <MESSAGE value="time AutoPusher" />
+     <MESSAGE value="initial commit" />
+-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
++    <MESSAGE value="update and push" />
++    <option name="LAST_COMMIT_MESSAGE" value="update and push" />
+   </component>
+ </project>
+\ No newline at end of file

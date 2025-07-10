@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68a66cc7-f5b3-48bd-9b14-03c4012fecff" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/AutoUpdater/AutoUpdater.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Introduction.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Introduction.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFirstProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java.LANG.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayListExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +26,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -45,75 +43,75 @@
     <option name="sortByType" value="true" />
     <option name="sortKey" value="BY_TYPE" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ArrayListExample.executor": "Run",
-    "Application.BreakContinue.executor": "Run",
-    "Application.CompoundInterest.executor": "Run",
-    "Application.Conditions.executor": "Run",
-    "Application.ForLoop.executor": "Run",
-    "Application.GitAutoPusher.executor": "Run",
-    "Application.Introduction.executor": "Run",
-    "Application.L10StringMethods.executor": "Run",
-    "Application.L17Matrix.executor": "Run",
-    "Application.L20VariableScope.executor": "Run",
-    "Application.L21Banking.executor": "Run",
-    "Application.L22DiceRollingProgram.executor": "Run",
-    "Application.L23Array.executor": "Run",
-    "Application.L24EnterUserInputInArray.executor": "Run",
-    "Application.L27Varargs.executor": "Run",
-    "Application.L282DArray.executor": "Run",
-    "Application.L29QuizGame.executor": "Run",
-    "Application.L2AcceptInput.executor": "Run",
-    "Application.L30RockPaperScissor.executor": "Run",
-    "Application.L31SlotMachine.executor": "Run",
-    "Application.L32Main.executor": "Run",
-    "Application.L3ArithmaticOperators.executor": "Run",
-    "Application.L3Problem.executor": "Run",
-    "Application.L3SlotMachine.executor": "Run",
-    "Application.L5ShoppingCart.executor": "Run",
-    "Application.L6IfStatements.executor": "Run",
-    "Application.L7random.executor": "Run",
-    "Application.L8MathMethod.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MathClass.executor": "Run",
-    "Application.Mini2DProject.executor": "Run",
-    "Application.NestedLoops.executor": "Run",
-    "Application.NumberGuessing.executor": "Run",
-    "Application.ShoppingCart_5.executor": "Run",
-    "Application.StringMethods.executor": "Run",
-    "Application.Student.executor": "Run",
-    "Application.Substring.executor": "Run",
-    "Application.TernaryOperator.executor": "Run",
-    "Application.WeightConverter.executor": "Run",
-    "Application.WhileLoop.executor": "Run",
-    "Application.acceptINPUT.executor": "Run",
-    "Application.acceptINPUTgame.executor": "Run",
-    "Application.arithOPERATORS.executor": "Debug",
-    "Application.cONDITIONS.executor": "Run",
-    "Application.calculator.executor": "Run",
-    "Application.helloWorld.executor": "Run",
-    "Application.methodOVERLOAD.executor": "Run",
-    "Application.methods.executor": "Run",
-    "Application.randomCLASS.executor": "Run",
-    "Application.shoppingCART.executor": "Run",
-    "Application.switchesEnhs.executor": "Run",
-    "Batch.run_and_push.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.update_readme.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "create.test.in.the.same.root": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.12300122",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "configurable.group.language",
-    "settings.editor.splitter.proportion": "0.3337041"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArrayListExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BreakContinue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CompoundInterest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Conditions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ForLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GitAutoPusher.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Introduction.executor&quot;: &quot;Run&quot;,
+    &quot;Application.L10StringMethods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.L17Matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.L20VariableScope.executor&quot;: &quot;Run&quot;,
+    &quot;Application.L21Banking.executor&quot;: &quot;Run&quot;,
+    &quot;Application.L22DiceRollingProgram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.L23Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.L24EnterUserInputInArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.L27Varargs.executor&quot;: &quot;Run&quot;,
+    &quot;Application.L282DArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.L29QuizGame.executor&quot;: &quot;Run&quot;,
+    &quot;Application.L2AcceptInput.executor&quot;: &quot;Run&quot;,
+    &quot;Application.L30RockPaperScissor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.L31SlotMachine.executor&quot;: &quot;Run&quot;,
+    &quot;Application.L32Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.L3ArithmaticOperators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.L3Problem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.L3SlotMachine.executor&quot;: &quot;Run&quot;,
+    &quot;Application.L5ShoppingCart.executor&quot;: &quot;Run&quot;,
+    &quot;Application.L6IfStatements.executor&quot;: &quot;Run&quot;,
+    &quot;Application.L7random.executor&quot;: &quot;Run&quot;,
+    &quot;Application.L8MathMethod.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MathClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Mini2DProject.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NestedLoops.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberGuessing.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ShoppingCart_5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringMethods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Student.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Substring.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TernaryOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WeightConverter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WhileLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.acceptINPUT.executor&quot;: &quot;Run&quot;,
+    &quot;Application.acceptINPUTgame.executor&quot;: &quot;Run&quot;,
+    &quot;Application.arithOPERATORS.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.cONDITIONS.executor&quot;: &quot;Run&quot;,
+    &quot;Application.calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.helloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Application.methodOVERLOAD.executor&quot;: &quot;Run&quot;,
+    &quot;Application.methods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.randomCLASS.executor&quot;: &quot;Run&quot;,
+    &quot;Application.shoppingCART.executor&quot;: &quot;Run&quot;,
+    &quot;Application.switchesEnhs.executor&quot;: &quot;Run&quot;,
+    &quot;Batch.run_and_push.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.update_readme.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.12300122&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.3337041&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Tarun Sagar\IdeaProjects\Java.LANG\AutoUpdater" />
@@ -253,7 +251,31 @@
       <option name="project" value="LOCAL" />
       <updated>1752130419776</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update and push">
+      <option name="closed" value="true" />
+      <created>1752130908267</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1752130908267</updated>
+    </task>
+    <task id="LOCAL-00006" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1752140300306</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1752140300306</updated>
+    </task>
+    <task id="LOCAL-00007" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1752140336489</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1752140336489</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -268,8 +290,12 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/AutoUpdater" />
+    </ignored-roots>
     <MESSAGE value="an AutoPusher" />
     <MESSAGE value="time AutoPusher" />
+    <MESSAGE value="update and push" />
     <MESSAGE value="initial commit" />
     <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
