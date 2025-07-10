@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68a66cc7-f5b3-48bd-9b14-03c4012fecff" name="Changes" comment="an AutoPusher">
+    <list default="true" id="68a66cc7-f5b3-48bd-9b14-03c4012fecff" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/AutoUpdater/AutoUpdater.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Introduction.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Introduction.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Introduction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java.LANG.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayListExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +47,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArrayListExample.executor": "Run",
     "Application.BreakContinue.executor": "Run",
     "Application.CompoundInterest.executor": "Run",
     "Application.Conditions.executor": "Run",
@@ -94,23 +100,41 @@
     "Application.switchesEnhs.executor": "Run",
     "Batch.run_and_push.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.update_readme.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "create.test.in.the.same.root": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "configurable.group.editor",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.12300122",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "configurable.group.language",
     "settings.editor.splitter.proportion": "0.3337041"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Tarun Sagar\IdeaProjects\Java.LANG\AutoUpdater" />
+    </key>
+  </component>
   <component name="RunManager" selected="Batch.run_and_push">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
     </configuration>
+    <configuration name="ArrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayListExample" />
+      <module name="Java.LANG" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GitAutoPusher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GitAutoPusher" />
-      <module name="MyFirstProject" />
+      <module name="Java.LANG" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -118,15 +142,7 @@
     </configuration>
     <configuration name="L10StringMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="L10StringMethods" />
-      <module name="MyFirstProject" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="L29QuizGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L29QuizGame" />
-      <module name="MyFirstProject" />
+      <module name="Java.LANG" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -138,18 +154,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="helloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="helloWorld" />
-      <module name="MyFirstProject" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="run_and_push" type="BatchConfigurationType" factoryName="Batch" temporary="true">
-      <module name="MyFirstProject" />
+      <module name="Java.LANG" />
       <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="WORKING_DIRECTORY" value="C:\Users\Tarun Sagar\IdeaProjects\Java.LANG" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SCRIPT_NAME" value="run_and_push.bat" />
       <option name="PARAMETERS" value="" />
@@ -164,21 +172,43 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="update_readme" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AutoUpdater" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AutoUpdater" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AutoUpdater/update_readme.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Application.Introduction" />
+      <item itemvalue="Application.ArrayListExample" />
       <item itemvalue="Application.L10StringMethods" />
       <item itemvalue="Application.GitAutoPusher" />
-      <item itemvalue="Application.helloWorld" />
-      <item itemvalue="Application.L29QuizGame" />
       <item itemvalue="Batch.run_and_push" />
+      <item itemvalue="Python.update_readme" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Batch.run_and_push" />
+        <item itemvalue="Python.update_readme" />
+        <item itemvalue="Application.ArrayListExample" />
         <item itemvalue="Application.L10StringMethods" />
         <item itemvalue="Application.GitAutoPusher" />
-        <item itemvalue="Application.helloWorld" />
-        <item itemvalue="Application.L29QuizGame" />
       </list>
     </recent_temporary>
   </component>
@@ -191,6 +221,39 @@
       <option name="presentableId" value="Default" />
       <updated>1746432358288</updated>
     </task>
+    <task id="LOCAL-00001" summary="time AutoPusher">
+      <option name="closed" value="true" />
+      <created>1752130165139</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1752130165139</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1752130199236</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1752130199236</updated>
+    </task>
+    <task id="LOCAL-00003" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1752130218280</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1752130218280</updated>
+    </task>
+    <task id="LOCAL-00004" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1752130419776</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1752130419776</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -206,6 +269,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="an AutoPusher" />
-    <option name="LAST_COMMIT_MESSAGE" value="an AutoPusher" />
+    <MESSAGE value="time AutoPusher" />
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
 </project>

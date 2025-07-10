@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MyFirstProject.iml" filepath="$PROJECT_DIR$/MyFirstProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AutoUpdater/AutoUpdater.iml" filepath="$PROJECT_DIR$/AutoUpdater/AutoUpdater.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java.LANG.iml" filepath="$PROJECT_DIR$/Java.LANG.iml" />
     </modules>
   </component>
 </project>

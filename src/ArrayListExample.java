@@ -1,10 +1,16 @@
+import java.util.ArrayList;
+import java.util.Collections;
 import java.util.Scanner;
 
-public class ArrayList {
+
+public class ArrayListExample {
     public static void main(String[] args) {
 
+        //ArrayList = a resizeable array that stores objects (autoboxing)
+        //            Arrays are fixed in size but ArrayLists can change
+
         Scanner scanner = new Scanner(System.in);
-        java.util.ArrayList<String> foods = new java.util.ArrayList<>();
+        ArrayList<String> foods = new ArrayList<>();
 
 
 
