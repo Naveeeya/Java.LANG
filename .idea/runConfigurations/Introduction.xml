@@ -1,7 +1,7 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="Introduction" type="Application" factoryName="Application" nameIsGenerated="true">
     <option name="MAIN_CLASS_NAME" value="Introduction" />
-    <module name="MyFirstProject" />
+    <module name="Java.LANG" />
     <method v="2" />
   </configuration>
 </component>
