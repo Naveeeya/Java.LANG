@@ -1,5 +1,7 @@
-# 🌙 Good Evening!
+# ☀️ Good Afternoon!
 
 Welcome to my profile.
-Here's what I'm up to:
->(～￣▽￣)～-->
+Here's what I'm working on:
+>╰(*°▽°*)╯ -->
+
+
