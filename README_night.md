@@ -3,6 +3,6 @@
 
 what's up dude (☞ﾟヮﾟ)☞ 
 >yooo dont be lazy bro
-!Take a look!
+*Take a look*
 
 </div>
