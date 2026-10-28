@@ -1,8 +1,7 @@
-<div align="center">
-# 🌙 Good Evening!
+# ☀️ Good Afternoon!
 
-what's up dude (☞ﾟヮﾟ)☞ 
->yooo dont be lazy bro
-*Take a look*
+Welcome to my profile.
+Here's what I'm working on:
+>╰(*°▽°*)╯ -->
 
-</div>
+
